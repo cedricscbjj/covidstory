@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+
+body{
+   background-color:azure;
+   font-family: "Josefin Sans", sans-serif;
+
+}
+
+.fix{
+margin-left: 78px;
+margin-right: 78px;
+}
+
+
+.texte{
+font-size: 25px;
+}
+
+.texte2{
+    font-size: 20px;
+
+}
+
+h1{
+    font-family: "Bungee Tint", sans-serif;
+    font-size: 65px;
+
+}
+
+h2{
+
+}
+
+
+
+.selectlink {
+            padding: 20px;
+            background-color: #87CEFA; /* Bleu ciel clair */
+            border-radius: 10px;
+            width: fit-content;
+            margin: 20px auto;
+            text-align: center;
+        }
+
+        label {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        select {
+            background-color: #4682B4; /* Bleu acier */
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            width: 100%;
+            margin-top: 10px;
+        }
+
+        option {
+            background-color: #4682B4; /* Fond des options */
+            color: white;
+        }
+
+        button {
+            background-color: #1E90FF; /* Bleu Dodger */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #104E8B; /* Bleu plus foncé au survol */
+        }
+
+
+
+#displaylink2{
+    font-size: 21px;
+}
+
+
+
+#displaymessage{
+    
+}
